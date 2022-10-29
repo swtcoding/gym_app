@@ -1,4 +1,4 @@
-# A gym exercise app
+# A gym exercise app to fetch information about different gym exercises using Rapid API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
